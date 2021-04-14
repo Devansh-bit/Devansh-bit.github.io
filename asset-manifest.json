@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Chintubot/static/css/main.de7a6a3f.chunk.css",
+    "main.js": "/Chintubot/static/js/main.3c686d34.chunk.js",
+    "main.js.map": "/Chintubot/static/js/main.3c686d34.chunk.js.map",
+    "runtime-main.js": "/Chintubot/static/js/runtime-main.3827a0b6.js",
+    "runtime-main.js.map": "/Chintubot/static/js/runtime-main.3827a0b6.js.map",
+    "static/js/2.28b471f8.chunk.js": "/Chintubot/static/js/2.28b471f8.chunk.js",
+    "static/js/2.28b471f8.chunk.js.map": "/Chintubot/static/js/2.28b471f8.chunk.js.map",
+    "static/js/3.f3afb247.chunk.js": "/Chintubot/static/js/3.f3afb247.chunk.js",
+    "static/js/3.f3afb247.chunk.js.map": "/Chintubot/static/js/3.f3afb247.chunk.js.map",
+    "index.html": "/Chintubot/index.html",
+    "static/css/main.de7a6a3f.chunk.css.map": "/Chintubot/static/css/main.de7a6a3f.chunk.css.map",
+    "static/js/2.28b471f8.chunk.js.LICENSE.txt": "/Chintubot/static/js/2.28b471f8.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Chintubot/static/media/loader.f85536f6.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3827a0b6.js",
+    "static/js/2.28b471f8.chunk.js",
+    "static/css/main.de7a6a3f.chunk.css",
+    "static/js/main.3c686d34.chunk.js"
+  ]
+}
